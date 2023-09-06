@@ -3,8 +3,10 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/Chooseash/Chooseash.git)
+
 <h2> Certifications</h2>
-  - [ Certified Cybersecurity (ISC)2](https://www.credly.com/badges/98a83ce8-3469-46e1-9ee0-b4e674f81a42/public_url)
+
+  - [Certified Cybersecurity (ISC)2](https://www.credly.com/badges/98a83ce8-3469-46e1-9ee0-b4e674f81a42/public_url)
 
 <h2>📺 Popular YouTube Videos</h2>
 
